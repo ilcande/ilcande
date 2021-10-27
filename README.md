@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<!--
-**ilcande/ilcande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+I am Luca.
+- :computer: I am a software engineer who creates high-performing applications with organized architecture.
+- :open_file_folder: I'm also experienced in managing products and client relations.
+- :octocat: I’m currently working at  https://github.com/Sage [Sage](http://www.sage.com) 
+
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
