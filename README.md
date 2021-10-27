@@ -14,9 +14,10 @@ I am Luca.
    - Containerization and Orchestration
 - :wrench: Tech Stack:
 
-<p align="center">	
-	<img title="RoR" alt="RoR" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" width="70" height="40" />
-</p>
+<div align="center">	
+	<img title="RoR" alt="RoR" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+	<img title="ruby" alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+</div>
 <!--
 Here are some ideas to get you started:
 
