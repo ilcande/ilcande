@@ -12,7 +12,8 @@ I am Luca.
    - Troubleshooting and Quality Control
    - Agile Processes like Kanban and Scrum
    - Containerization and Orchestration
-   
+- :wrench: Tech Stack:
+   - <i class='icon-tech-ruby'></i> 
 <!--
 Here are some ideas to get you started:
 
