@@ -26,9 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="left">
-  <a href="#"><img alt="Arknights - Phos#3548" title="Arknights - Phos#3548" height="32" width="32" src="assets/arknights.svg"></a>
-  <a href="#"><img alt="Destiny 2 - Phos" title="Destiny 2 - Phos" height="32" width="32" src="assets/destiny.svg"></a>
-  <a href="#"><img alt="Warframe - Sumia" title="Warframe - Sumia" height="32" width="32" src="assets/warframe.svg"></a>
-</p>
