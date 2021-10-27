@@ -6,12 +6,12 @@ I am Luca.
 - :open_file_folder: I'm also experienced in managing products and client relations.
 - :octocat: I’m currently working at  https://github.com/Sage [Sage](http://www.sage.com) 
 - :bulb: Key competencies include:
-   --Front-End and Back-End Development
-   --Software Development and Architecture
-   --Performance Optimization
-   --Troubleshooting and Quality Control
-   --Agile Processes like Kanban and Scrum
-   --Containerization and Orchestration
+   - Front-End and Back-End Development
+   - Software Development and Architecture
+   - Performance Optimization
+   - Troubleshooting and Quality Control
+   - Agile Processes like Kanban and Scrum
+   - Containerization and Orchestration
    
 <!--
 Here are some ideas to get you started:
