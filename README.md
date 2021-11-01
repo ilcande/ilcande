@@ -1,7 +1,9 @@
-### Hi there 👋 I am Luca. 
-<a href="https://www.linkedin.com/in/luca-candela/" target="_blank" align="center">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<div align="center">
+	### Hi there 👋 I am Luca. 
+	<a href="https://www.linkedin.com/in/luca-candela/" target="_blank">
+	    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+	</a>
+</div>
 
 - :computer: I am a software engineer who creates high-performing applications with organized architecture.
 - :open_file_folder: I'm also experienced in managing products and client relations.
