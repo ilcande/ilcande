@@ -5,10 +5,10 @@
 	</a>
 </div>
 
-- :computer: I am a software engineer who creates high-performing applications with organized architecture.
-- :open_file_folder: I'm also experienced in managing products and client relations.
-- :octocat: I’m currently working at [Sage](http://www.sage.com) : [Sage Github](https://github.com/Sage) - [My Sage Github Profile](https://github.com/LucaCande)
-- :bulb: Key competencies include:
+- :computer:  I am a software engineer who creates high-performing applications with organized architecture.
+- :open_file_folder:  I'm also experienced in managing products and client relations.
+- :octocat:  I’m currently working at [Sage](http://www.sage.com) : [Sage Github](https://github.com/Sage) - [My Sage Github Profile](https://github.com/LucaCande)
+- :bulb:  Key competencies include:
    - Front-End and Back-End Development
    - Software Development and Architecture
    - Performance Optimization
