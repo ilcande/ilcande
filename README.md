@@ -47,7 +47,7 @@
 	<img title="zoom" alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 </div>
 <div align="left">
-	![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
+	![](https://komarev.com/ghpvc/?username=ilcande&style=flat)
 </div>
 <!--
 Here are some ideas to get you started:
