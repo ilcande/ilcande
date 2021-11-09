@@ -46,7 +46,7 @@
 	<img title="teams" alt="teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 	<img title="zoom" alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 </div>
-	![Visitor Count](https://profile-counter.glitch.me/{ilcande}/count.svg)
+	![Visitor Count](https://profile-counter.glitch.me/ilcande/count.svg)
 <!--
 Here are some ideas to get you started:
 
