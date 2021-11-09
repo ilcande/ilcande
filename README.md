@@ -46,6 +46,9 @@
 	<img title="teams" alt="teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
 	<img title="zoom" alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 </div>
+<div align="left">
+	![](https://komarev.com/ghpvc/?username=your-github-username&style=flat)
+</div>
 <!--
 Here are some ideas to get you started:
 
