@@ -47,9 +47,7 @@
 	<img title="zoom" alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
 </div>
 <br>
-<div align="right">
-	    <img alt="Visitor Badge" src="https://badges.pufler.dev/visits/ilcande/ilcande" />
-</div>
+
 <!--
 Here are some ideas to get you started:
 
